@@ -3,11 +3,11 @@
  * Plugin Name: Latest Posts Template Widget
  * Plugin URI:
  * Description: Latest Posts Template Widget is widget that display latest entries.
- * Version: 0.3
+ * Version: 0.4
  * Author: Takashi Kitajima
  * Author URI: http://2inc.org
  * Created: June 4, 2014
- * Modified: September 5, 2015
+ * Modified: November 23, 2015
  * Text Domain: lptw
  * Domain Path: /languages/
  * License: GPL2 or later

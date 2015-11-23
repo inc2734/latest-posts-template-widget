@@ -1,10 +1,10 @@
 === Latest Posts Template Widget ===
-Contributors: inc2734
+Contributors: inc2734, shinichin
 Donate link:
 Tags: widget
 Requires at least: 3.6
 Tested up to: 4.3.1
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ Latest Posts Template Widget is widget that display latest entries.
 3. You can set this widget by widget page.
 
 == Changelog ==
+
+= 0.4 =
+* Add filter hook lptw_posts_latest
 
 = 0.3 =
 * Some fixes.
