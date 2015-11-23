@@ -117,6 +117,8 @@ class Latest_Posts_Template_Widget_Widget extends WP_Widget {
 			'posts_per_page' => $instance['number'],
 			'post_type' => $instance['post_types']
 		) );
+
+		$posts_latest = apply_filters( 'lptw_posts_latest', $posts_latest, $instance );
 		?>
 
 		<?php echo $args['before_widget']; ?>
